@@ -4,8 +4,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 # Overview
 
-Here's a screenshot and the link to my [QR code] (images/screenshot-final-look-desktop.PNG)!
-And here's the link (https://fiofiorito.github.io/QR-for-Frontend-Mentor/)
+Here's the link to my QR code (https://fiofiorito.github.io/QR-for-Frontend-Mentor/)
 
 # My process
 
