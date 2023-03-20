@@ -2,7 +2,7 @@ body {
     background-color: hsl(212, 45%, 89%);
 }
 
-h1 {
+.build-projects {
     font-family: Calibri, 'Trebuchet MS', sans-serif;
     padding: 0 10%;
     color: hsl(218, 44%, 22%);
